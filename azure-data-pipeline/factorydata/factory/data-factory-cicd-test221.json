@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-cicd-test221",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce703cd2-3c88-4653-b287-f62e640d2e4d",
+		"tenantId": "69b81292-d92b-4290-8171-19e8eca5f164"
+	}
+}
