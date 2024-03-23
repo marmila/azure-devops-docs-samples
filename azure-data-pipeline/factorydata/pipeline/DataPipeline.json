@@ -146,7 +146,7 @@
 		"variables": {
 			"storage_account_name": {
 				"type": "String",
-				"defaultValue": "yourstorageaccount"
+				"defaultValue": "datacicd16983"
 			},
 			"storage_container_name": {
 				"type": "String",
